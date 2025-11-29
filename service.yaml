@@ -1,0 +1,6 @@
+entrypoint: main.py
+parameters:
+  - name: TEXT
+    kind: String
+    default_value: 'Text'
+    required: true
