@@ -1,3 +1,6 @@
+name: Simple Counter
+version: 1.0.0
+description: It just counts
 entrypoint: main.py
 parameters:
   - name: TEXT
